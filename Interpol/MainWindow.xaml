@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Interpol"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        x:Class="Interpol.MainWindow"
+       
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks" 
+        mc:Ignorable="d" Height="946.5" Width="1748" MinWidth="950" MinHeight="970" WindowState="Maximized" Title="Entrance" Icon="1312 (2).png" KeyDown="Window_KeyDown">
+    <Grid Margin="0,0,-8,-1" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="434*"/>
+            <ColumnDefinition Width="437*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="INterpol.jpg"/>
+        </Grid.Background>
+
+        <Border MinWidth="400" Margin="0,329,10,355" Background="#FFD8D8D8" VerticalAlignment="Center" Padding="15" MaxWidth="560" CornerRadius="10" Height="256" Grid.ColumnSpan="2" >
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="10" Color="DarkBlue" ShadowDepth="0"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Вход в учетную запись" FontSize="36" FontWeight="Black" Margin="0 0 0 20" TextDecorations="{x:Null}" FontFamily="Segoe UI Semilight"/>
+                <TextBox x:Name="login"  Style="{StaticResource MaterialDesignFloatingHintTextBox}" CaretBrush="Black" SelectionBrush="Black" FontSize="18" materialDesign:HintAssist.Hint="Логин" materialDesign:TextFieldAssist.HasClearButton="True"/>
+                <PasswordBox x:Name="password" materialDesign:HintAssist.Hint="Пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" CaretBrush="Black" SelectionBrush="Black" FontSize="18" materialDesign:TextFieldAssist.HasClearButton="True"/>
+                <Button x:Name="btnLogin" Content="Вход"  Foreground="White" Style="{StaticResource MaterialDesignRaisedButton}" materialDesign:ButtonProgressAssist.Value="-1" materialDesign:ButtonProgressAssist.IsIndicatorVisible="True" materialDesign:ButtonProgressAssist.IsIndeterminate="True"
+                 Background="#FF404040" FontSize="16" Click="btnLogin_Click" Height="41" Margin="150 15 150 0"  />
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>

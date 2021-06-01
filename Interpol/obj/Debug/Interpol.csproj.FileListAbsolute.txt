@@ -1,0 +1,200 @@
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\Interpol.exe.config
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\Interpol.exe
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\Interpol.pdb
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vlad\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\App.g.cs
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\App.baml
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\MainWindow.baml
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.g.resources
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.exe
+C:\Users\Vlad\source\repos\Interpol\Interpol\obj\Debug\Interpol.pdb
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\Interpol.exe.config
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\Interpol.exe
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\Interpol.pdb
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vlad\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\App.g.cs
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\App.baml
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\MainWindow.baml
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.g.resources
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.exe
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Interpol.pdb
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Window1.g.cs
+C:\Users\Vlad\Desktop\Interpol\Interpol\obj\Debug\Window1.baml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\Interpol.exe.config
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\Interpol.exe
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\Interpol.pdb
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.dll
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.xml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ogel41104\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Window1.g.cs
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\App.g.cs
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol_Content.g.cs
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\App.baml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\MainWindow.baml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Window1.baml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.g.resources
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.exe
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\Interpol.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\Interpol.exe.config
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\Interpol.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\Interpol.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Window1.g.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\App.g.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol_Content.g.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\App.baml
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\MainWindow.baml
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Window1.baml
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.g.resources
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.exe
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\Interpol.pdb
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\Interpol.exe.config
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\Interpol.exe
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\Interpol.pdb
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.dll
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.xml
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nanit\Desktop\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Window1.g.cs
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\App.g.cs
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol_Content.g.cs
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\App.baml
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\MainWindow.baml
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Window1.baml
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.g.resources
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.exe
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\Interpol.pdb
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\authorization.g.cs
+C:\Users\Vlad\OneDrive\Рабочий стол\Interpol\Interpol\obj\Debug\authorization.baml
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\authorization.g.cs
+C:\Users\ogel41104\Desktop\Interpol\Interpol\obj\Debug\authorization.baml
+D:\Interpol\Interpol\bin\Debug\Interpol.exe.config
+D:\Interpol\Interpol\bin\Debug\Interpol.exe
+D:\Interpol\Interpol\bin\Debug\Interpol.pdb
+D:\Interpol\Interpol\bin\Debug\EntityFramework.dll
+D:\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.dll
+D:\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+D:\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Interpol\Interpol\bin\Debug\EntityFramework.xml
+D:\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.xml
+D:\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+D:\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+D:\Interpol\Interpol\obj\Debug\authorization.g.cs
+D:\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+D:\Interpol\Interpol\obj\Debug\Window1.g.cs
+D:\Interpol\Interpol\obj\Debug\App.g.cs
+D:\Interpol\Interpol\obj\Debug\Interpol_Content.g.cs
+D:\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+D:\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+D:\Interpol\Interpol\obj\Debug\App.baml
+D:\Interpol\Interpol\obj\Debug\authorization.baml
+D:\Interpol\Interpol\obj\Debug\MainWindow.baml
+D:\Interpol\Interpol\obj\Debug\Window1.baml
+D:\Interpol\Interpol\obj\Debug\Interpol.g.resources
+D:\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+D:\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+D:\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+D:\Interpol\Interpol\obj\Debug\Interpol.exe
+D:\Interpol\Interpol\obj\Debug\Interpol.pdb
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\authorization.g.cs
+C:\Users\Nanit\Desktop\Interpol\Interpol\obj\Debug\authorization.baml
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\Interpol.exe.config
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\Interpol.exe
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\Interpol.pdb
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\EntityFramework.dll
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignColors.dll
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\EntityFramework.xml
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignColors.pdb
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\denis\source\repos\Interpol\Interpol\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\authorization.g.cs
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\MainWindow.g.cs
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Window1.g.cs
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\App.g.cs
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol_Content.g.cs
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.cache
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol_MarkupCompile.lref
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\App.baml
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\authorization.baml
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\MainWindow.baml
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Window1.baml
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.g.resources
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.Properties.Resources.resources
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.csproj.CopyComplete
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.exe
+C:\Users\denis\source\repos\Interpol\Interpol\obj\Debug\Interpol.pdb
